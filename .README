@@ -1,0 +1,2 @@
+nodemon: thay đổi ngay lập tức trên browser khi có sự thay đổi code
+morgan: xuất ra ngày giờ, phương thức và status(200,304,404,...) ở trên terminal
